@@ -1,0 +1,16 @@
+.titulo {
+    background-color: bisque; margin: 80px; padding: 40px; width: 300px ;
+}
+
+.luxos {
+    background-color:rgb(213, 127, 127); margin: 10px 80px; padding: 30px; width: 317px;
+}
+
+.venon {
+    max-width: 20%; height: auto; margin: 20px 80px;
+}
+
+.texto {
+    background-color: aquamarine; margin: 10px 80px; padding: 30px; width: 317px;
+}
+
